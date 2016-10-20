@@ -1,2 +1,4 @@
 hello!
+conflict!
 change!
+conflict!
